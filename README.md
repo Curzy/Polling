@@ -1,0 +1,2 @@
+# Polling
+A Django tutorial
